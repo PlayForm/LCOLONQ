@@ -35,20 +35,12 @@
 		"astro": "4.4.5",
 		"astro-capo": "0.0.1",
 		"astro-compress": "2.2.11",
-<<<<<<< HEAD
 		"astro-critters": "2.1.2",
-=======
-		"astro-critters": "2.1.1",
->>>>>>> 7e7508351f2f17eb0daee51e6d01ee46a74f5cb8
 		"astro-biome": "0.0.6",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.17",
 		"cssnano": "6.0.5",
-<<<<<<< HEAD
 		"cssnano-preset-advanced": "6.0.5",
-=======
-		"cssnano-preset-advanced": "6.0.4",
->>>>>>> 7e7508351f2f17eb0daee51e6d01ee46a74f5cb8
 		"dotenv": "16.4.5",
 		"firebase": "10.8.0",
 		"postcss": "8.4.35",
