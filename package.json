@@ -2,11 +2,7 @@
 	"name": "@website/pub_lcolonq_computer",
 	"version": "0.0.1",
 	"private": true,
-	"keywords": [
-		"astro",
-		"starter",
-		"skeleton"
-	],
+	"keywords": ["astro", "starter", "skeleton"],
 	"homepage": "https://github.com/Playform/AstroStarterTemplate#readme",
 	"bugs": {
 		"url": "https://github.com/Playform/AstroStarterTemplate/issues"
@@ -18,7 +14,7 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
-		"email": "nikola@nikolahristov.tech",
+		"email": "Nikola@Playform.Cloud",
 		"url": "https://nikolahristov.tech"
 	},
 	"scripts": {
