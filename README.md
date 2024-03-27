@@ -1,5 +1,3 @@
-# [pub.lcolonq.computer/~nikola] 🍞
+# 🗺️ [Website]
 
-pub.lcolonq.computer/~nikola main website.
-
-[pub.lcolonq.computer/~nikola]: https://pub.lcolonq.computer/~nikola
+[Website]: https://pub.lcolonq.computer/~nikola
