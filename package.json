@@ -7,7 +7,7 @@
 		"starter",
 		"skeleton"
 	],
-	"homepage": "https://github.com/Playform/StarterTemplateAstro#readme",
+	"homepage": "https://github.com/Playform/StarterTemplateAstro#ReadMe",
 	"bugs": {
 		"url": "https://github.com/Playform/StarterTemplateAstro/issues"
 	},
@@ -37,7 +37,7 @@
 		"@playform/critters-astro": "0.0.2",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.19",
-		"@playform/compress-astro": "0.0.1",
+		"@playform/compress-astro": "0.0.2",
 		"cssnano": "6.1.2",
 		"cssnano-preset-advanced": "6.1.2",
 		"dotenv": "16.4.5",
