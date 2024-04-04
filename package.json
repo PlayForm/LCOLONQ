@@ -22,7 +22,7 @@
 		"url": "https://playform.cloud"
 	},
 	"scripts": {
-		"Build": "astro build",
+		"prepublishOnly": "astro build",
 		"start": "astro dev"
 	},
 	"dependencies": {
