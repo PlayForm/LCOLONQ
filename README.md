@@ -1,3 +1,3 @@
 # 🗺️ [Website.]
 
-[Website.]: https://pub.lcolonq.computer/~nikola
+[Website.]: HTTPS://pub.lcolonq.computer/~nikola
