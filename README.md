@@ -1,3 +1,3 @@
 # 🗺️ [Website.]
 
-[Website]: https://pub.lcolonq.computer/~nikola
+[Website.]: https://pub.lcolonq.computer/~nikola
