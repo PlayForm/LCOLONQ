@@ -2,7 +2,7 @@ export default (await import("astro/config")).defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: "https://pub.lcolonq.computer",
+	site: "HTTPS://Pub.LCOLONQ.Computer",
 	base: "/~nikola",
 	compressHTML: true,
 	prefetch: true,
