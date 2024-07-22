@@ -2,6 +2,10 @@
 	"name": "@website/pub_lcolonq_computer",
 	"version": "0.0.1",
 	"private": true,
+<<<<<<< HEAD
+=======
+	"description": "📄 Starter —",
+>>>>>>> Fork/Current
 	"keywords": [
 		"astro",
 		"starter",
