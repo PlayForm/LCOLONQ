@@ -1,4 +1,4 @@
-import { _ as e } from "./preload-helper.BiBI96sQ.js";
+import { _ as e } from "./preload-helper.BEct-kpD.js";
 (
 	await e(async () => {
 		const { initializeApp: a } = await import("./index.esm.BoasBFnU.js");
@@ -14,4 +14,4 @@ import { _ as e } from "./preload-helper.BiBI96sQ.js";
 	projectId: "",
 	storageBucket: "",
 });
-//# sourceMappingURL=Base.astro_astro_type_script_index_0_lang.F7LZ3psc.js.map
+//# sourceMappingURL=Base.astro_astro_type_script_index_0_lang.DPfI4URA.js.map
