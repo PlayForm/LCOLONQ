@@ -1,7 +1,7 @@
 import { _ as e } from "./preload-helper.BEct-kpD.js";
 (
 	await e(async () => {
-		const { initializeApp: a } = await import("./index.esm.DRVoThhD.js");
+		const { initializeApp: a } = await import("./index.esm.JD-0sKti.js");
 		return { initializeApp: a };
 	}, [])
 ).initializeApp({
@@ -14,4 +14,4 @@ import { _ as e } from "./preload-helper.BEct-kpD.js";
 	projectId: "",
 	storageBucket: "",
 });
-//# sourceMappingURL=Base.astro_astro_type_script_index_0_lang.YysHxID-.js.map
+//# sourceMappingURL=Base.astro_astro_type_script_index_0_lang.CTZAGjri.js.map
