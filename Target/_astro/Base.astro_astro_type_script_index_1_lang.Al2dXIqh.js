@@ -12,7 +12,7 @@ const __vite__mapDeps = (
 			"_astro/index.modern.aa8fLSdp.js",
 		]),
 ) => i.map((i) => d[i]);
-import { _ } from "./preload-helper.BEct-kpD.js";
+import { _ } from "./preload-helper.BzyVdZ1X.js";
 new (
 	await _(async () => {
 		const { default: t } = await import("./Swup.modern.UA9jlYbO.js");
@@ -78,4 +78,4 @@ new (
 		).default(),
 	],
 });
-//# sourceMappingURL=Base.astro_astro_type_script_index_1_lang.Yf6JzbjG.js.map
+//# sourceMappingURL=Base.astro_astro_type_script_index_1_lang.Al2dXIqh.js.map
